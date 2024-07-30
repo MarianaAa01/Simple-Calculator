@@ -1,4 +1,4 @@
-<h1>Simple Calculator</h1>
+<h1>Simple Calculator <i>2024</i></h1>
 <img style= "width:100px" src="https://cdn-icons-png.flaticon.com/512/8418/8418713.png">
 
 The Simple Calculator is a lightweight and easy-to-use web application designed to perform basic arithmetic operations. 
